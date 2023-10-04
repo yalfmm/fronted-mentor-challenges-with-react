@@ -1,11 +1,11 @@
-# Frontend Mentor - Results summary component
+# Frontend Mentor - Product preview card component
 
 ## Hello! :wave:
 
-Here is a solution to [Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Here is a solution to [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of Content
-- [Frontend Mentor - Results summary component](#frontend-mentor---results-summary-component)
+- [Frontend Mentor - Product preview card component](#frontend-mentor---product-preview-card-component)
   - [Hello! :wave:](#hello-wave)
   - [Table of Content](#table-of-content)
     - [The challenge](#the-challenge)
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of my solution ](./public/thumb.png)
+![Screenshot of my solution ](./public/thumb.jpg)
 
 ## My Process
 
