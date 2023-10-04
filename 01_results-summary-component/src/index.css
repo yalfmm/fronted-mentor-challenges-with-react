@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Hanken Grotesk', sans-serif;
+  src: url('../src/assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    align-items: center;
+  }
+}
