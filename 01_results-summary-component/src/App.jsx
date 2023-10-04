@@ -1,5 +1,5 @@
 import Button from './component/Button';
-import Data from './component/data';
+import Data from './component/Data';
 
 function App() {
 
